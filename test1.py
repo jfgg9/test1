@@ -1,4 +1,4 @@
-import math
+from math import pi
 
-def calculate_area(radius):
-return math.pi * radius ** 2
+r = float(input ("Input radius"))
+print ("The surface area of the circle is: " + str(pi * r**2))
