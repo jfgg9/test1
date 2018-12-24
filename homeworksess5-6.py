@@ -1,3 +1,5 @@
+#MAGIC MAZE HOMEWORK
+
 print("Welcone to the Magic Maze!")
 print("Which way you want to go: N, S, E, W?")
 
